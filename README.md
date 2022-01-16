@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrLeisure
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... making life easier for people
 - 🌱 I’m currently learning ... Javascript fundamentals, hopefully soon C#, .Net, and Swift
 - 💞️ I’m looking to collaborate on ... not sure yet. Skyrim Mods?
 - 📫 How to reach me ... @DrLeisure anywhere.
