@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DrLeisure
+- 👋 Hi, I’m @ActuallyAJL or @DrLeisure
 - 👀 I’m interested in ... making life easier for people
 - 🌱 I’m currently learning ... Javascript fundamentals, hopefully soon C#, .Net, and Swift
 - 💞️ I’m looking to collaborate on ... not sure yet.
-- 📫 How to reach me ... @DrLeisure anywhere.
+- 📫 How to reach me ... AActuallyAJL or @DrLeisure anywhere.
 
 I am enrolling in Nashville Software School, and am open to many possibilities for my future.
 
