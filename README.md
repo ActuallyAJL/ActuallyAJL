@@ -4,7 +4,7 @@ Hi 👋 My name is Alex Levy
 Full Stack Developer
 --------------------
 
-Student at Nashville Software School. JavaScript, HTML5, CSS, React, C#, .NET, SQL.
+Full-stack Software developer specializing in C# .NET, IaC Deployments, ReactJS, SQL
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [alex.j.levy@me.com](mailto:alex.j.levy@me.com)
